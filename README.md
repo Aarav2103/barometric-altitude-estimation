@@ -22,9 +22,6 @@ This project estimates altitude using barometric pressure data from the Arduino 
 - `/python-gui/barometric_pressure_gui.py` – Tkinter-based GUI to read and plot data.
 - `/sample-data/sensor_data.csv` – Example CSV with timestamped altitude readings.
 
-## 🖼 Screenshots (optional)
-
-_Add GUI screenshots, CSV samples, or plotted output here._
 
 ## 🚀 Getting Started
 
