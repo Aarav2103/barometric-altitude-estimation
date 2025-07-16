@@ -34,7 +34,3 @@ This project estimates altitude using barometric pressure data from the Arduino 
 
 - Add ML-based altitude correction using weather conditions.
 - Train regression models on exported CSV data to refine estimations.
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
